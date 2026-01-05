@@ -1,10 +1,10 @@
-#Artificial Intelligence — Coursework & Projects
+# Artificial Intelligence — Coursework & Projects
 
 This repository documents my work and learning from an upper-level Artificial Intelligence course, where I developed both a strong technical foundation in classical AI and a critical perspective on the ethical and societal implications of intelligent systems.
 
 -----------
 
-##What I Learned
+## What I Learned
 
 Through this course, I learned how to formulate real-world problems as state-space search problems, design rational agents, and evaluate AI systems using meaningful performance measures. I gained hands-on experience with core AI algorithms and learned how design choices affect optimality, efficiency, and scalability.
 
@@ -28,7 +28,7 @@ Ethical challenges in AI systems
 
 -----------
 
-##Writing & Critical Analysis
+## Writing & Critical Analysis
 
 A major part of this course emphasized clear technical writing and critical thinking:
 
@@ -43,7 +43,7 @@ For our final project, I worked closely with a teammate to develop and compare h
 
 -----------
 
-##Programming & Implementation
+## Programming & Implementation
 
 I implemented and experimented with AI algorithms using the AIMA Python codebase, primarily in Google Colab. My work included:
 
@@ -61,6 +61,6 @@ Through both individual assignments and our collaborative final project, I stren
 
 -----------
 
-##Takeaways
+## Takeaways
 
 This course deepened my understanding of how classical AI methods remain foundational to modern intelligent systems. More importantly, it taught me to think critically about why an algorithm works, when it should be used, and how its design choices impact real-world outcomes—both technically and ethically. Working collaboratively on the final project also improved my ability to coordinate, communicate, and integrate ideas effectively in a team setting.
